@@ -41,7 +41,5 @@ These additions demonstrate the ability to modify an existing codebase quickly a
 | ORM         | Spring Data JPA  |
 | Realtime    | WebSockets (STOMP) |
 
----
 
-## 📁 Project Structure
 
