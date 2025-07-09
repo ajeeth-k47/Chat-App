@@ -1,6 +1,6 @@
 # ChatApp – A Simple Client-Server Chat Application
 
-This is a simple full-stack chat application built as part of the **LCSS Lab Course 0** at **TH Köln**. It showcases a clear understanding of **client-server architecture**, **real-time communication**, and **persistent data handling** using modern technologies.
+A full-stack chat application using React, Spring Boot, PostgreSQL, and WebSockets — built to demonstrate understanding of client-server architecture.
 
 ---
 
